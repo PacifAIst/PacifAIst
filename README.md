@@ -2,7 +2,7 @@
 
 **AI Researcher | R&D Strategist | Circular Economy Advocate**
 
-Welcome to my GitHub! I'm not your traditional software developer; I operate at the intersection of high-level academic research and practical AI implementation. My focus lies in AI safety, AI usability, and leveraging digital transformation for sustainable urban development. 
+Welcome to my GitHub! I'm not your traditional software developer; I operate at the intersection of high-level academic research and practical AI implementation. My focus lies in AI safety, AI usability, and leveraging digital transformation. 
 
 ### 🚀 What I'm Building & Researching
 * 🦥 **Quansloth:** (over 100 stars) A local AI server optimizing LLM inference and VRAM for consumer-grade HW using Google's Turboquant.

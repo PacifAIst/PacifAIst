@@ -5,8 +5,8 @@
 Welcome to my GitHub! I'm not your traditional software developer; I operate at the intersection of high-level academic research and practical AI implementation. My focus lies in AI safety, AI usability, and leveraging digital transformation. 
 
 ### 🚀 What I'm Building & Researching
-* 🦥 **Quansloth:** (over 100 stars) A local AI server optimizing LLM inference and VRAM for consumer-grade HW using Google's novel Turboquant.
-* 🛡️ **The PacifAIst Benchmark:** Research paper and tool dedicated to AI alignment, safety, and testing if models prioritize human survival.
+* 🦥 **Quansloth:** (100+ stars) A local AI server optimizing LLM inference and VRAM for consumer-grade HW using Google's novel Turboquant.
+* 🛡️ **The PacifAIst Benchmark:** Research paper & tool dedicated to AI alignment, safety, and testing if models prioritize human survival.
 * 👾 **ProxyFace:** A collaborative web and Windows App featuring alive retro 16-bit pixel art interfaces for Large Language Models.
 * 🌍 **Sustainable Tech:** Integrating machine learning to drive circular economy frameworks and revitalize smart cities.
 

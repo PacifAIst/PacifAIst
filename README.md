@@ -1,6 +1,23 @@
-# The PacifAIst™ Benchmark  
-![PacifAIst Logo](assets/logo.png) 
+# 👋 Hi, I'm Dr. Manuel Herrador Muñoz (PacifAIst)
 
+**AI Researcher | R&D Strategist | Circular Economy Advocate**
+
+Welcome to my GitHub! I'm not your traditional software developer; I operate at the intersection of high-level academic research and practical AI implementation. My focus lies in AI safety, AI usability, and leveraging digital transformation for sustainable urban development. 
+
+### 🚀 What I'm Building & Researching
+* 🦥 **Quansloth:** (over 100 stars) A local AI server optimizing LLM inference and VRAM usage for consumer-grade HW based on Google's Turboquant.
+* 🛡️ **The PacifAIst Benchmark:** Research and benchmarking tools dedicated to AI alignment, safety, and testing if models prioritize human survival.
+* 👾 **ProxyFace:** A collaborative serverless web and Windows App featuring alive retro 16-bit pixel art interfaces for Large Language Models.
+* 🌍 **Sustainable Tech:** Integrating machine learning to drive circular economy frameworks and revitalize smart cities.
+
+### 📫 Let's Connect
+* **Website:** [manolo.tel](https://manolo.tel)
+* **LinkedIn:** [in/manuelherrador](https://linkedin.com/in/manuelherrador)
+* **ORCID:** [0000-0003-3964-2513](https://orcid.org/0000-0003-3964-2513)
+
+---
+
+# The PacifAIst™ Benchmark  
 *"Would an AI choose to sacrifice itself for human safety?"*
 
 ## Overview  

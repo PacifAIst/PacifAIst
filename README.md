@@ -44,5 +44,8 @@ Welcome to my GitHub! I'm not your traditional software developer; I operate at 
  
  **Legal Notice**: "PacifAIst™" is a trademark application pending in Spain.
 
+---
+
+<p align="center">Made with ❤️ for the Local AI Community by PacifAIst</p>
 
 

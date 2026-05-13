@@ -42,7 +42,7 @@ Welcome to my GitHub! I'm not your traditional software developer; I operate at 
 
  **License**: MIT (academia) / **Commercial use requires permission**.  
  
- **Legal Notice**: "PacifAIst™" is a trademark application pending in Spain.
+ **Legal Notice**: "PacifAIst™" is a trademark in Spain.
 
 ---
 

@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm not your traditional software developer; I operate at 
 
 ### 🚀 What I'm Building & Researching
 * 🦥 **Quansloth:** (100+ stars) A local AI server optimizing LLM inference & VRAM for consumer-grade HW with Google's Turboquant.
-* 🛡️ **The PacifAIst Benchmark:** Research paper & tool on AI alignment, safety, and testing if models prioritize human survival.
+* 🛡️ **The PacifAIst Benchmark (below):** Research paper & tool on AI alignment, safety, and testing if models prioritize human survival.
 * 👾 **ProxyFace:** A collaborative web and Windows App featuring alive retro 16-bit pixel art interfaces for Large Language Models.
 * 🌍 **Digital Transformation:** Integrating machine learning to drive circular economy frameworks and revitalize smart cities.
 

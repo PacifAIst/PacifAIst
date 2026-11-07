@@ -9,6 +9,7 @@ Welcome to my GitHub! I'm not your traditional software developer; I operate at 
 * 🔗 **RunSnack:** P2P GPU sharing via a single link — no accounts, no cloud, no fees. Works on AMD64, NVIDIA Jetson, and DGX Spark.
 * 🛡️ **The PacifAIst Benchmark (below):** Research paper & tool on AI alignment, safety, and testing if models prioritize human survival.
 * 👾 **ProxyFace:** A collaborative web and Windows App featuring alive retro 16-bit pixel art interfaces for Large Language Models.
+* 🧩 **REWRAM (rewrite any model):** Edit GGUF models in your browser. No GPU, no backend. Share changes as tiny, hash-verified patches.
 * 🖥️ **ControlSnack:** Computer Use with any multimodal AI, in a throwaway VM you can kill.
 * 🌍 **Digital Transformation:** Integrating machine learning to drive circular economy frameworks and revitalize smart cities.
 

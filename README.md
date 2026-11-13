@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm not your traditional software developer; I operate at 
 
 ### 🚀 What I'm Building & Researching
 * 🦥 **[Quansloth:](https://github.com/PacifAIst/Quansloth)** (150+ stars) A local AI server optimizing LLM inference & VRAM for consumer-grade HW with Google's Turboquant.
-* 🔗 *[*RunSnack:](https://github.com/PacifAIst/runsnack)** P2P GPU sharing via a single link — no accounts, no cloud, no fees. Works on AMD64, NVIDIA Jetson, and DGX Spark.
+* 🔗 **[*RunSnack:](https://github.com/PacifAIst/runsnack)** P2P GPU sharing via a single link — no accounts, no cloud, no fees. Works on AMD64, NVIDIA Jetson, and DGX Spark.
 * 🎥 **[Survany:](https://github.com/PacifAIst/survany)** AI monitoring in any browser tab or camera, with human approval to trigger alerts in Telegram + email + MCP.
 * 🛡️ **[The PacifAIst Benchmark (below):](https://github.com/PacifAIst/PacifAIst)** Research paper & tool on AI alignment, safety, and testing if models prioritize human survival.
 * 👾 **[ProxyFace:](https://github.com/PacifAIst/Proxyface)** A collaborative web and Windows App featuring alive retro 16-bit pixel art interfaces for Large Language Models.

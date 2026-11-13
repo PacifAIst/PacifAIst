@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm not your traditional software developer; I operate at 
 * 🎥 **Survey Anything:** AI monitoring in any browser tab or camera, with human approval to trigger alerts in Telegram + email + MCP.
 * 🛡️ **The PacifAIst Benchmark (below):** Research paper & tool on AI alignment, safety, and testing if models prioritize human survival.
 * 👾 **ProxyFace:** A collaborative web and Windows App featuring alive retro 16-bit pixel art interfaces for Large Language Models.
-* 🖥️ **ControlSnack:** Computer Use with any multimodal AI, in a throwaway VM you can kill.
+* 🖥️ **ControlSnack:** Computer Use feature for any multimodal AI, in a throwaway Linux-based Virtual Machine you can kill.
 * 👨‍💻 **API2CHAT:** 13KB client-side Zero-Knowledge GUI. Deploy locally / low-end webhosting / Cloud APIs, no PHP/Python/Node.
 * 📑 **OFFTOCO:** OFFline TOken COunter for GPT, Claude and Gemini — web, CLI and Windows desktop. Zero knowledge.
 * 🌍 **Digital Transformation:** Integrating machine learning to drive circular economy frameworks and revitalize smart cities.

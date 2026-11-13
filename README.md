@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm not your traditional software developer; I operate at 
 * 🛡️ **The PacifAIst Benchmark (below):** Research paper & tool on AI alignment, safety, and testing if models prioritize human survival.
 * 👾 **ProxyFace:** A collaborative web and Windows App featuring alive retro 16-bit pixel art interfaces for Large Language Models.
 * 🖥️ **ControlSnack:** Computer Use with any multimodal AI, in a throwaway VM you can kill.
-* 👨‍💻 **API2CHAT:** Lightweight purely client-side Zero-Knowledge GUI. Deploy locally / low-end webhosting / Cloud APIs, no PHP/Python... 
+* 👨‍💻 **API2CHAT:** Lightweight client-side Zero-Knowledge GUI. Deploy locally / low-end webhosting / Cloud APIs, no PHP/Python/Node... 
 * 🌍 **Digital Transformation:** Integrating machine learning to drive circular economy frameworks and revitalize smart cities.
 
 ### 📫 Let's Connect

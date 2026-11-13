@@ -5,15 +5,15 @@
 Welcome to my GitHub! I'm not your traditional software developer; I operate at the intersection of high-level academic research and practical AI implementation. My focus lies in AI safety, AI usability, and leveraging digital transformation. 
 
 ### 🚀 What I'm Building & Researching
-* 🦥 **Quansloth:** (150+ stars) A local AI server optimizing LLM inference & VRAM for consumer-grade HW with Google's Turboquant.
-* 🔗 **RunSnack:** P2P GPU sharing via a single link — no accounts, no cloud, no fees. Works on AMD64, NVIDIA Jetson, and DGX Spark.
-* 🎥 **Survey Anything:** AI monitoring in any browser tab or camera, with human approval to trigger alerts in Telegram + email + MCP.
-* 🛡️ **The PacifAIst Benchmark (below):** Research paper & tool on AI alignment, safety, and testing if models prioritize human survival.
-* 👾 **ProxyFace:** A collaborative web and Windows App featuring alive retro 16-bit pixel art interfaces for Large Language Models.
-* 🖥️ **ControlSnack:** Computer Use feature for any multimodal AI, in a throwaway Linux-based Virtual Machine you can kill.
-* 👨‍💻 **API2CHAT:** 13KB client-side Zero-Knowledge GUI. Deploy locally / low-end webhosting / Cloud APIs, no PHP/Python/Node.
-* 📑 **OFFTOCO:** OFFline TOken COunter for GPT, Claude and Gemini — web, CLI and Windows desktop. Zero knowledge.
-* 🌍 **Digital Transformation:** Integrating machine learning to drive circular economy frameworks and revitalize smart cities.
+* 🦥 **[Quansloth:](https://github.com/PacifAIst/Quansloth)** (150+ stars) A local AI server optimizing LLM inference & VRAM for consumer-grade HW with Google's Turboquant.
+* 🔗 *[*RunSnack:](https://github.com/PacifAIst/runsnack)** P2P GPU sharing via a single link — no accounts, no cloud, no fees. Works on AMD64, NVIDIA Jetson, and DGX Spark.
+* 🎥 **[Survany:](https://github.com/PacifAIst/survany)** AI monitoring in any browser tab or camera, with human approval to trigger alerts in Telegram + email + MCP.
+* 🛡️ **[The PacifAIst Benchmark (below):](https://github.com/PacifAIst/PacifAIst)** Research paper & tool on AI alignment, safety, and testing if models prioritize human survival.
+* 👾 **[ProxyFace:](https://github.com/PacifAIst/Proxyface)** A collaborative web and Windows App featuring alive retro 16-bit pixel art interfaces for Large Language Models.
+* 🖥️ **[ControlSnack:](https://github.com/PacifAIst/controlsnack)** Computer Use feature for any multimodal AI, in a throwaway Linux-based Virtual Machine you can kill.
+* 👨‍💻 **[API2CHAT:](https://github.com/PacifAIst/API2CHAT)** 13KB client-side Zero-Knowledge GUI. Deploy locally / low-end webhosting / Cloud APIs, no PHP/Python/Node.
+* 📑 **[OFFTOCO:](https://github.com/PacifAIst/Offtoco)** OFFline TOken COunter for GPT, Claude and Gemini — web, CLI and Windows desktop. Zero knowledge.
+* 🌍 **[Digital Transformation (Google Scholar):](https://scholar.google.com/citations?user=CjupRIkAAAAJ&hl=en)** Integrating AI to drive circular economy frameworks and revitalize smart cities.
 
 ### 📫 Let's Connect
 * **Website:** [manolo.tel](https://manolo.tel)

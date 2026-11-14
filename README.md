@@ -10,6 +10,7 @@ Welcome to my GitHub! I'm not your traditional software developer; I operate at 
 * 🎥 **[Survany:](https://github.com/PacifAIst/survany)** AI monitoring in any browser tab or camera, with human approval to trigger alerts in Telegram + email + MCP.
 * 🛡️ **[The PacifAIst Benchmark (below):](https://github.com/PacifAIst/PacifAIst)** Research paper & tool on AI alignment, safety, and testing if models prioritize human survival.
 * 👾 **[ProxyFace:](https://github.com/PacifAIst/Proxyface)** A collaborative web and Windows App featuring alive retro 16-bit pixel art interfaces for Large Language Models.
+* 😴 **[[CLAUDOWN:]](https://github.com/PacifAIst/claudown)** Let Claude Code work while you sleep; Tracks your limits for free, lets it finish up, and shuts down your PC.
 * 🖥️ **[ControlSnack:](https://github.com/PacifAIst/controlsnack)** Computer Use feature for any multimodal AI, in a throwaway Linux-based Virtual Machine you can kill.
 * 👨‍💻 **[API2CHAT:](https://github.com/PacifAIst/API2CHAT)** 13KB client-side Zero-Knowledge GUI. Deploy locally / low-end webhosting / Cloud APIs, no PHP/Python/Node.
 * 📑 **[OFFTOCO:](https://github.com/PacifAIst/Offtoco)** OFFline TOken COunter for GPT, Claude and Gemini — web, CLI and Windows desktop. Zero knowledge.

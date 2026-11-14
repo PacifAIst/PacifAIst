@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm not your traditional software developer; I operate at 
 * 😴 **[CLAUDOWN:](https://github.com/PacifAIst/claudown)** Let Claude Code work while you sleep; Tracks your limits for free, lets it finish up, and shuts down your PC.
 * 🖥️ **[ControlSnack:](https://github.com/PacifAIst/controlsnack)** Computer Use feature for any multimodal AI, in a throwaway Linux-based Virtual Machine you can kill.
 * 👨‍💻 **[API2CHAT:](https://github.com/PacifAIst/API2CHAT)** 13KB client-side Zero-Knowledge GUI. Deploy locally / low-end webhosting / Cloud APIs, no PHP/Python/Node.
-* 🎮 **[[FREE-WARS:]](https://github.com/PacifAIst/free-wars)** A 3D fixed-shooter crowd game for the browser, create your own maps and game clones!!
+* 🎮 **[FREE-WARS:](https://github.com/PacifAIst/free-wars)** A 3D fixed-shooter crowd game for the browser, create your own maps and game clones!!
 * 📑 **[OFFTOCO:](https://github.com/PacifAIst/Offtoco)** OFFline TOken COunter for GPT, Claude and Gemini — web, CLI and Windows desktop. Zero knowledge.
 * 🌍 **[Digital Transformation (Google Scholar):](https://scholar.google.com/citations?user=CjupRIkAAAAJ&hl=en)** Integrating AI to drive circular economy frameworks and revitalize smart cities.
 
